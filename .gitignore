@@ -1,0 +1,9 @@
+Created .gitignore
+
+I have created the [.gitignore](file:///c:/Users/sharm/OneDrive/Desktop/CONTACT%20MANAGEM/.gitignore) file with configurations covering:
+
+- **OS-specific files** (`.DS_Store`, `Thumbs.db`, `desktop.ini`, etc.)
+- **Editor & IDE directories** (`.vscode/`, `.idea/`, swap files)
+- **Node & package manager caches** (`node_modules/`, logs)
+- **Environment & secrets** (`.env*`)
+- **Build outputs & temp directories** (`dist/`, `build/`, `tmp/`, `.cache/`)
